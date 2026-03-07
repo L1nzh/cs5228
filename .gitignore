@@ -1,0 +1,10 @@
+.trae/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+*.pdf
+poseter/
