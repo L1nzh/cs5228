@@ -1,0 +1,14 @@
+{
+  "model": "et",
+  "scoring": "f1",
+  "n_iter": 40,
+  "best_score_cv": 0.6473120717423501,
+  "best_params": {
+    "n_estimators": 1000,
+    "min_samples_split": 10,
+    "min_samples_leaf": 5,
+    "max_features": "log2",
+    "max_depth": 12,
+    "class_weight": null
+  }
+}

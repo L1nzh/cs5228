@@ -1,0 +1,24 @@
+{
+  "model": "logreg",
+  "variant": "threshold_tuned",
+  "objective": "f1",
+  "threshold_steps": 401,
+  "threshold": 0.58,
+  "constraints": {
+    "target_recall": null,
+    "target_precision": null
+  },
+  "oof_at_threshold": {
+    "threshold": 0.58,
+    "precision_oof": 0.3977987421383648,
+    "recall_oof": 0.6520618556701031,
+    "f1_oof": 0.494140625,
+    "target_recall": null,
+    "target_precision": null
+  },
+  "calibration": {
+    "enabled": false,
+    "method": null,
+    "size": null
+  }
+}

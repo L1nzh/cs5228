@@ -1,0 +1,8 @@
+{
+  "drop_state": false,
+  "drop_area_code": false,
+  "drop_charges": false,
+  "n_features_before": 73,
+  "n_features_after": 73,
+  "removed_features_count": 0
+}

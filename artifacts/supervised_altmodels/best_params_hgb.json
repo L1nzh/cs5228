@@ -1,0 +1,13 @@
+{
+  "model": "hgb",
+  "scoring": "f1",
+  "n_iter": 30,
+  "best_score_cv": 0.8450008435342216,
+  "best_params": {
+    "min_samples_leaf": 10,
+    "max_iter": 200,
+    "max_depth": 7,
+    "learning_rate": 0.2,
+    "l2_regularization": 1.0
+  }
+}

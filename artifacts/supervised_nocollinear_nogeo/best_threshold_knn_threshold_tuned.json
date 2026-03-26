@@ -1,0 +1,24 @@
+{
+  "model": "knn",
+  "variant": "threshold_tuned",
+  "objective": "f1",
+  "threshold_steps": 401,
+  "threshold": 0.0025,
+  "constraints": {
+    "target_recall": null,
+    "target_precision": null
+  },
+  "oof_at_threshold": {
+    "threshold": 0.0025,
+    "precision_oof": 0.3979289940828402,
+    "recall_oof": 0.6932989690721649,
+    "f1_oof": 0.5056390977443609,
+    "target_recall": null,
+    "target_precision": null
+  },
+  "calibration": {
+    "enabled": false,
+    "method": null,
+    "size": null
+  }
+}
