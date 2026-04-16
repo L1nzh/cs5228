@@ -1,0 +1,16 @@
+feature,display_name,abs_coef,coef
+cat__International plan_Yes,Intl plan=Yes,2.093128037600886,2.093128037600886
+cat__Voice mail plan_Yes,VM plan=Yes,1.8994277494310787,-1.8994277494310787
+num__Customer service calls,Customer service calls,0.7593939811484666,0.7593939811484666
+num__Total day minutes,Total day minutes,0.6678689516089406,0.6678689516089406
+num__Number vmail messages,Number vmail messages,0.5222445855909886,0.5222445855909886
+cat__International plan_No,Intl plan=No,0.30569630683902566,-0.30569630683902566
+num__Total eve minutes,Total eve minutes,0.2754408033904374,0.2754408033904374
+num__Total intl minutes,Total intl minutes,0.2172114707002775,0.2172114707002775
+num__Total intl calls,Total intl calls,0.20824670595873643,-0.20824670595873643
+num__Total night minutes,Total night minutes,0.14548491156936538,0.14548491156936538
+num__Total day calls,Total day calls,0.04940654860100987,0.04940654860100987
+cat__Voice mail plan_No,VM plan=No,0.04649666350576494,0.04649666350576494
+num__Account length,Account length,0.03209251421984921,0.03209251421984921
+num__Total night calls,Total night calls,0.01186076363281289,0.01186076363281289
+num__Total eve calls,Total eve calls,0.0056348987235090645,0.0056348987235090645

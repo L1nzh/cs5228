@@ -1,0 +1,16 @@
+feature,display_name,importance
+num__Total day minutes,Total day minutes,0.24366115198353913
+num__Customer service calls,Customer service calls,0.15935839060087134
+cat__International plan_Yes,Intl plan=Yes,0.1448241439844314
+num__Total eve minutes,Total eve minutes,0.10064107394557423
+num__Total intl minutes,Total intl minutes,0.06953326904775428
+num__Total intl calls,Total intl calls,0.048236713739237394
+num__Total night minutes,Total night minutes,0.04749260763492322
+num__Total night calls,Total night calls,0.03453898910208589
+num__Total day calls,Total day calls,0.03445054243814281
+num__Account length,Account length,0.029234172818060095
+num__Total eve calls,Total eve calls,0.027149197895919
+num__Number vmail messages,Number vmail messages,0.027073766961223183
+cat__International plan_No,Intl plan=No,0.013807487210760081
+cat__Voice mail plan_No,VM plan=No,0.011374556882482633
+cat__Voice mail plan_Yes,VM plan=Yes,0.008623935754995414
